@@ -1,4 +1,4 @@
-# My Card
+# My Card📇
 
 ## Our Goal
 
@@ -18,3 +18,11 @@ My Card is a personal business card. Imagine every time we wanted to give someon
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
+
+## Difficulties faced
+
+* Columns and Row adjustment
+
+## Conclusion
+
+Had a great fun in building My Card App. Its very useful in terms of sharing your professional imformation to anyone anywhwere.
